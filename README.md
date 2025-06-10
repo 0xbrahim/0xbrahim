@@ -25,4 +25,5 @@
 ----
 
 📫 How to Reach Me
-• Email:eng.brahiim@gmail.com | bahmed@student.42abudhabi.ae
+
+• Email:  eng.brahiim@gmail.com | bahmed@student.42abudhabi.ae
