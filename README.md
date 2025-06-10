@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Brahim Ahmed (aka 0xbrahim)
+# Hi there 👋 I'm Brahim Ahmed
 
 🎓 Bachelor's in Software Engineering from Al Ain University  
 💻 Currently studying Computer Science at 42 Abu Dhabi  
